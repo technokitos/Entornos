@@ -19,7 +19,7 @@ public class Refactorización {
     }
 
     private static int Cuadrado_Numero(int numero) {
-        return numero*numero;
+        return numero*2;
     }
     
 }
